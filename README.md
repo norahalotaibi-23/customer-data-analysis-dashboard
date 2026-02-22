@@ -1,6 +1,10 @@
 # 📊 Customer Data Analysis Dashboard
 
 
+## 📷 Dashboard Preview
+
+![Customer Dashboard](dashboard_preview.png.png)
+
 
 ## 📌 Project Overview
 
