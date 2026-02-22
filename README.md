@@ -26,13 +26,20 @@ Each visualization is designed to simplify complex data into clear, actionable i
 
 Questions Answered by the Dashboard:
 
-How is revenue distributed across different regions?
-Which region contributes more compared to others?
-How does revenue vary by product category?
-What is the revenue distribution across states?
-Is there a visible relationship between discount and quantity purchased?
-How does revenue differ between customer groups (e.g., gender)?
-How does filtering by category change overall performance insights?
+- How is revenue distributed across different regions?
+
+- Which region contributes more compared to others?
+
+- How does revenue vary by product category?
+
+- What is the revenue distribution across states?
+
+- Is there a visible relationship between discount and quantity purchased?
+
+- How does revenue differ between customer groups (e.g., gender)?
+
+- How does filtering by category change overall performance insights?
+
 --
 
 ## 🛠 Tools Used
