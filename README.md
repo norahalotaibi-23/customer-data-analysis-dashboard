@@ -1,9 +1,5 @@
 # 📊 Customer Data Analysis Dashboard
 
-## 📷 Dashboard Preview
-
-![Customer Dashboard](dashboard_preview.png)
-
 ## 📌 Project Overview
 
 This project presents an interactive Tableau dashboard designed to analyze customer sales data and uncover meaningful patterns in revenue performance and purchasing behavior.
@@ -69,6 +65,11 @@ This dashboard helps stakeholders understand customer purchasing behavior, optim
 - Tableau  
 - Structured sales dataset (CSV)  
 - Data visualization techniques
+---
+## 📷 Dashboard Preview
+## 📷 Dashboard Preview
+
+![Customer Dashboard](dashboard_preview.png.png)
 
 ---
 
